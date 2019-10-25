@@ -6,7 +6,7 @@
 //
 //
 
-#import <PINOperation/PINOperation.h>
+#import "PINOperation.h"
 
 #import "PINRemoteImageManager+Private.h"
 #import "PINRemoteImageTask.h"

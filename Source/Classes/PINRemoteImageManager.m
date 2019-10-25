@@ -9,7 +9,7 @@
 #import "PINRemoteImageManager.h"
 
 #import <CommonCrypto/CommonDigest.h>
-#import <PINOperation/PINOperation.h>
+#import "PINOperation.h"
 
 #import <objc/runtime.h>
 

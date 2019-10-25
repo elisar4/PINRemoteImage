@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "PINCache",
+        "repositoryURL": "https://github.com/elisar4/PINCache.git",
+        "state": {
+          "branch": "supportSPM",
+          "revision": "0ea25ae5664b085efd957772f6cdb6c969bddae0",
+          "version": null
+        }
+      },
+      {
+        "package": "PINOperation",
+        "repositoryURL": "https://github.com/3a4oT/PINOperation.git",
+        "state": {
+          "branch": "swiftPM",
+          "revision": "81bc2dc0e031842422898d4f48a0dd1947b90fa9",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
