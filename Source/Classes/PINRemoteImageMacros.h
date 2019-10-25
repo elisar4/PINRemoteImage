@@ -4,6 +4,7 @@
 //
 
 #import <TargetConditionals.h>
+#import <UIKit/UIKit.h>
 
 #ifndef PINRemoteImageMacros_h
 #define PINRemoteImageMacros_h

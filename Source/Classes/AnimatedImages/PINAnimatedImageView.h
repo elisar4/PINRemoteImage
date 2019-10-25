@@ -11,7 +11,7 @@
 #import <Cocoa/Cocoa.h>
 #endif
 
-#import <PINRemoteImage/PINCachedAnimatedImage.h>
+#import "PINCachedAnimatedImage.h"
 
 @interface PINAnimatedImageView : PINImageView
 
